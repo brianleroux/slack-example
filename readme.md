@@ -13,5 +13,7 @@ SLACK_TOKEN=xxxx-your-slack-token-here-xxxx
 
 (You can score a token here: https://api.slack.com/web)
 
-3. Run `npm start` (or `node index`)
-4. Send a message in your Slack `pingpong`
+## run
+
+1. Run `npm start` (or `node index`)
+2. Send a message in your Slack `pingpong`
